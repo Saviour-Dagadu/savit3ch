@@ -5,7 +5,7 @@ Savitech is a software developing and research company with over 9 years experie
 
 **Link to project:** hhttps://savitech.netlify.app/
 
-![alt tag](https://i.postimg.cc/DzfmVC9G/Screenshot-77.png)
+![alt tag](https://i.imgupx.com/piBvEVXf/Screenshot (133).png)
 
 
 ## How It's Made:
