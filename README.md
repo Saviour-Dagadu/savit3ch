@@ -1,4 +1,4 @@
-# My Dice Game Project using JavaScript
+# Savitech Web Project
 Introduction : 
 
 Savitech is a software developing and research company with over 9 years experience in data collection and research.
